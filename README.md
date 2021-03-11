@@ -1,8 +1,6 @@
 # DEIASO
 ## Detection and Identification Of Alarming Sounds - A SmartBand for the Hearing Impaired
 
-This is a project aimed at creating a low-cost SmartBand for detection of alarming sounds for hearing impaired.
-
 DEIASO (Detection and Identification of Alarming Sounds) is a low-cost wearable SmartBand designed for Hearing-Impaired people.
 It recognizes alarming sounds and provides non-intrusive alerts to the user through a tactile and visual response. The application also supports text to speech functionality.
 
